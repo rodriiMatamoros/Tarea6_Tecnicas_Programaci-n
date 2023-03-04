@@ -1,4 +1,4 @@
-# Tarea6_Tecnicas_Programaci-n
+# Tarea6_Tecnicas_Programacion
 Tarea 6 Curso_22_23_Tecnicas
 
 Mi repositorio es:
