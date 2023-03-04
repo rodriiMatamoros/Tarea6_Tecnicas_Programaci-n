@@ -1,9 +1,9 @@
 # Tarea6_Tecnicas_Programacion
 Tarea 6 Curso_22_23_Tecnicas
 
-Mi repositorio es:
+Mi repositorio es: https://github.com/rodriiMatamoros/Tarea6_Tecnicas_Programacion.git
 
-# 1. Es el mayor
+## 1. Es el mayor
 Escriba una función que tome dos valores reales como argumentos y devuelva el mayor de los dos.
 
 Escriba otra función que también tome dos valores reales como argumentos, pero que devuelva:
@@ -16,7 +16,7 @@ el texto -1 en caso contrario.
 
 Escribir un algoritmo principal que llame a estas dos funciones.
 
-# 2. Micro guerra de barcos (versión 2)
+## 2. Micro guerra de barcos (versión 2)
 Requisito previo: Ejercicio 8 del capítulo Las tablas
 
 Retomar el algoritmo de la guerra de barcos, dividiéndolo en procedimientos y funciones:
@@ -31,14 +31,14 @@ Escribir una función de disparar() que le permita al jugador elegir sus coorden
 
 Escribir el algoritmo principal que llama a estos procedimientos y sus funciones. 
 
-# 3. Una tabla y funciones
+## 3. Una tabla y funciones
 Escriba una función que cree una tabla que tenga una dimensión de diez números enteros e inicialice aleatoriamente los valores de esta tabla, con valores entre un límite mínimo y un límite máximo, que se pasan como argumentos.
 
 Cree una función que devuelva el mayor valor de una tabla (esta tabla no tiene necesariamente diez celdas, etc.).
 
 Escriba un algoritmo que llame a estas dos funciones.
 
-# 4. El juego del rebaño de ovejas
+## 4. El juego del rebaño de ovejas
 El objetivo de este juego es cruzar dos rebaños de ovejas. Inicialmente, las ovejas están en la siguiente configuración:
 
 Images/06RI03.png
@@ -69,7 +69,7 @@ Escribe el algoritmo principal, asumiendo que tiene a su disposición las funcio
 
 Escribir las funciones y procedimientos.
 
-# 5. Taller de arte ASCII
+## 5. Taller de arte ASCII
 Escribir un algoritmo para hacer dibujos en arte ASCII. El diseño está modelizado por una tabla de caracteres de diez líneas y cuarenta columnas. Inicialmente, esta tabla contiene solo caracteres de espacio. Un procedimiento debe llevar a cabo la visualización de la obra.
 
 Cuando se inicia el programa, se muestra el dibujo y, a continuación, un menú ofrece realizar una de las siguientes funciones:
